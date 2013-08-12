@@ -27,7 +27,7 @@ With this usage you can convert tag's content to uppercase with "uc" class.
     
     <script>
         $(function() {
-            $('h1').trUpperCase();
+            $('.uc').trUpperCase();
         });
     </script>
 
