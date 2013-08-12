@@ -10,3 +10,7 @@ CSS3 ile kullanılan text-transform:uppercase; biçimi ile oluşan Büyük Harf 
     <script>
         $('h1').trUpperCase();
     </script>
+
+###Örnek Kullanım - Example Usage
+
+http://jsbin.com/izevas/2/edit
