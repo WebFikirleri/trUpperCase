@@ -20,12 +20,10 @@ With this usage you can convert tag's content to uppercase with "uc" class.
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script src="js/jquery.trUpperCase.js"></script>
     
-    <!-- body -->
     
     <h1 class="uc"> Page Title </h1>
     <p> This is an <span class="uc">uppercase</span> text</p>
     
-    <!-- body ends -->
     
     <script>
         $('h1').trUpperCase();
