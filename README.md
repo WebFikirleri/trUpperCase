@@ -34,3 +34,5 @@ With this usage you can convert tag's content to uppercase with "uc" class.
 ###Örnek Kullanım - Example Usage
 
 http://jsbin.com/izevas/2/edit
+
+![Counter](https://webfikirleri.com/counter?url=https://github.com/WebFikirleri/trUpperCase)
